@@ -1,0 +1,14 @@
+name: local_nmt_2 
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+  - soumith
+  - defaults
+dependencies:
+  - pytorch=1.2
+  - python
+  - numpy
+  - scipy
+  - tqdm
+  - docopt
+  - nltk
+  - torchvision

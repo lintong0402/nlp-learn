@@ -1,0 +1,12 @@
+name: local_nmt
+channels:
+  - defaults
+dependencies:
+  - python=3.5
+  - numpy
+  - scipy
+  - tqdm
+  - docopt
+  - pytorch=1.0.0
+  - nltk
+  - torchvision
